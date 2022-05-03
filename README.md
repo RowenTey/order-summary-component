@@ -14,5 +14,5 @@ Users should be able to:
 
 ## 🔗 Links
 
-- [Solution URL](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/hub/order-summary-component-using-scss-css-flexbox-B1P3Of0r5)
+- [Solution URL](https://www.frontendmentor.io/solutions/order-summary-component-using-scss-css-flexbox-B1P3Of0r5)
 - [Live Site URL](https://order-summary-component-aax.pages.dev/)
